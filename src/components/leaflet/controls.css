@@ -1,0 +1,16 @@
+.map-container {
+  height: 80vh;
+  width: 80%;
+  margin-right: 20px;
+}
+
+.button {
+  font-size: 16px;
+  padding: 8px;
+  height: fit-content;
+  cursor: pointer;
+}
+
+.selected {
+  color: blue;
+}
